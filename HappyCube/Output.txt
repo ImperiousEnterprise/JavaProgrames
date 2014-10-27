@@ -1,0 +1,87 @@
+Blue Cube 
+O O O  O  
+OOOOO OOO 
+ OOO OOOOO
+OOOOO OOO 
+O O O  O  
+ O O      
+OOOOO     
+ OOO      
+OOOOO     
+O O       
+ O O 
+OOOO 
+ OOOO
+OOOO 
+OO O 
+  O  
+ OOOO
+OOOO 
+ OOOO
+  O  
+ O O 
+ OOOO
+OOOO 
+ OOOO
+OO OO
+
+Red Cube 
+ OO O   OO O O   OO 
+OOOOO OOO OOOO OOOOO
+ OOO OOOOO OOOO OOO 
+OOOOO OOO OOOO OOOOO
+O  OO O OO O   O O  
+ OO            
+ OOO           
+OOOOO          
+ OOO           
+OO OO          
+  O  
+OOOO 
+ OOOO
+OOOO 
+  O  
+
+Purple Cube
+             OO O   
+          OOOO OOOO 
+          OOOOO OOOO
+           OOO OOOO 
+           O O   O  
+OO O OO OO  O O     
+OOOO  OOOO OOOO     
+OOOO OOOO OOOOO     
+ OOOO OOO OOOO      
+  O   O O O OO      
+ O OO     
+ OOO      
+ OOOO     
+OOOO      
+OO O      
+
+Yellow Cube 
+  O O     
+OOOOO     
+ OOO      
+OOOO      
+ O O      
+  O       
+ OOOO     
+OOOO      
+ OOOO     
+OO O      
+  O  O O O
+OOOO OOOOO
+ OOOO OOO 
+OOOO OOOOO
+ O O O O  
+  O O     
+ OOOO     
+OOOO      
+OOOOO     
+O O       
+ O O      
+ OOO      
+OOOOO     
+ OOO      
+ O OO     
